@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Desactivated__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>désactivate account instead of deleting</description>
+    <externalId>false</externalId>
+    <label>Desactivated</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
